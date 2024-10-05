@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		CCEE8D262CB19A81006C12EC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CCEE8D072CB19A7F006C12EC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CCEE8D0E2CB19A7F006C12EC;
+			remoteInfo = WellnesWarriors;
+		};
+		CCEE8D302CB19A81006C12EC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CCEE8D072CB19A7F006C12EC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CCEE8D0E2CB19A7F006C12EC;
+			remoteInfo = WellnesWarriors;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CCEE8D0F2CB19A7F006C12EC /* WellnesWarriors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WellnesWarriors.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCEE8D252CB19A81006C12EC /* WellnesWarriorsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WellnesWarriorsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCEE8D2F2CB19A81006C12EC /* WellnesWarriorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WellnesWarriorsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		CCEE8D372CB19A81006C12EC /* Exceptions for "WellnesWarriors" folder in "WellnesWarriors" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = CCEE8D0E2CB19A7F006C12EC /* WellnesWarriors */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		CCEE8D112CB19A7F006C12EC /* WellnesWarriors */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				CCEE8D372CB19A81006C12EC /* Exceptions for "WellnesWarriors" folder in "WellnesWarriors" target */,
+			);
+			path = WellnesWarriors;
+			sourceTree = "<group>";
+		};
+		CCEE8D282CB19A81006C12EC /* WellnesWarriorsTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = WellnesWarriorsTests;
+			sourceTree = "<group>";
+		};
+		CCEE8D322CB19A81006C12EC /* WellnesWarriorsUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = WellnesWarriorsUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CCEE8D0C2CB19A7F006C12EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CCEE8D222CB19A81006C12EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CCEE8D2C2CB19A81006C12EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CCEE8D062CB19A7F006C12EC = {
+			isa = PBXGroup;
+			children = (
+				CCEE8D112CB19A7F006C12EC /* WellnesWarriors */,
+				CCEE8D282CB19A81006C12EC /* WellnesWarriorsTests */,
+				CCEE8D322CB19A81006C12EC /* WellnesWarriorsUITests */,
+				CCEE8D102CB19A7F006C12EC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CCEE8D102CB19A7F006C12EC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CCEE8D0F2CB19A7F006C12EC /* WellnesWarriors.app */,
+				CCEE8D252CB19A81006C12EC /* WellnesWarriorsTests.xctest */,
+				CCEE8D2F2CB19A81006C12EC /* WellnesWarriorsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CCEE8D0E2CB19A7F006C12EC /* WellnesWarriors */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CCEE8D382CB19A81006C12EC /* Build configuration list for PBXNativeTarget "WellnesWarriors" */;
+			buildPhases = (
+				CCEE8D0B2CB19A7F006C12EC /* Sources */,
+				CCEE8D0C2CB19A7F006C12EC /* Frameworks */,
+				CCEE8D0D2CB19A7F006C12EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CCEE8D112CB19A7F006C12EC /* WellnesWarriors */,
+			);
+			name = WellnesWarriors;
+			packageProductDependencies = (
+			);
+			productName = WellnesWarriors;
+			productReference = CCEE8D0F2CB19A7F006C12EC /* WellnesWarriors.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CCEE8D242CB19A81006C12EC /* WellnesWarriorsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CCEE8D3D2CB19A81006C12EC /* Build configuration list for PBXNativeTarget "WellnesWarriorsTests" */;
+			buildPhases = (
+				CCEE8D212CB19A81006C12EC /* Sources */,
+				CCEE8D222CB19A81006C12EC /* Frameworks */,
+				CCEE8D232CB19A81006C12EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CCEE8D272CB19A81006C12EC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CCEE8D282CB19A81006C12EC /* WellnesWarriorsTests */,
+			);
+			name = WellnesWarriorsTests;
+			packageProductDependencies = (
+			);
+			productName = WellnesWarriorsTests;
+			productReference = CCEE8D252CB19A81006C12EC /* WellnesWarriorsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CCEE8D2E2CB19A81006C12EC /* WellnesWarriorsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CCEE8D402CB19A81006C12EC /* Build configuration list for PBXNativeTarget "WellnesWarriorsUITests" */;
+			buildPhases = (
+				CCEE8D2B2CB19A81006C12EC /* Sources */,
+				CCEE8D2C2CB19A81006C12EC /* Frameworks */,
+				CCEE8D2D2CB19A81006C12EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CCEE8D312CB19A81006C12EC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CCEE8D322CB19A81006C12EC /* WellnesWarriorsUITests */,
+			);
+			name = WellnesWarriorsUITests;
+			packageProductDependencies = (
+			);
+			productName = WellnesWarriorsUITests;
+			productReference = CCEE8D2F2CB19A81006C12EC /* WellnesWarriorsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CCEE8D072CB19A7F006C12EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					CCEE8D0E2CB19A7F006C12EC = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					CCEE8D242CB19A81006C12EC = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = CCEE8D0E2CB19A7F006C12EC;
+					};
+					CCEE8D2E2CB19A81006C12EC = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = CCEE8D0E2CB19A7F006C12EC;
+					};
+				};
+			};
+			buildConfigurationList = CCEE8D0A2CB19A7F006C12EC /* Build configuration list for PBXProject "WellnesWarriors" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CCEE8D062CB19A7F006C12EC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = CCEE8D102CB19A7F006C12EC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CCEE8D0E2CB19A7F006C12EC /* WellnesWarriors */,
+				CCEE8D242CB19A81006C12EC /* WellnesWarriorsTests */,
+				CCEE8D2E2CB19A81006C12EC /* WellnesWarriorsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CCEE8D0D2CB19A7F006C12EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CCEE8D232CB19A81006C12EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CCEE8D2D2CB19A81006C12EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CCEE8D0B2CB19A7F006C12EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CCEE8D212CB19A81006C12EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CCEE8D2B2CB19A81006C12EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CCEE8D272CB19A81006C12EC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CCEE8D0E2CB19A7F006C12EC /* WellnesWarriors */;
+			targetProxy = CCEE8D262CB19A81006C12EC /* PBXContainerItemProxy */;
+		};
+		CCEE8D312CB19A81006C12EC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CCEE8D0E2CB19A7F006C12EC /* WellnesWarriors */;
+			targetProxy = CCEE8D302CB19A81006C12EC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		CCEE8D392CB19A81006C12EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WellnesWarriors/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.WellnesWarriors;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CCEE8D3A2CB19A81006C12EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WellnesWarriors/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.WellnesWarriors;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		CCEE8D3B2CB19A81006C12EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CCEE8D3C2CB19A81006C12EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CCEE8D3E2CB19A81006C12EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.WellnesWarriorsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WellnesWarriors.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WellnesWarriors";
+			};
+			name = Debug;
+		};
+		CCEE8D3F2CB19A81006C12EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.WellnesWarriorsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WellnesWarriors.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WellnesWarriors";
+			};
+			name = Release;
+		};
+		CCEE8D412CB19A81006C12EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.WellnesWarriorsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WellnesWarriors;
+			};
+			name = Debug;
+		};
+		CCEE8D422CB19A81006C12EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.WellnesWarriorsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WellnesWarriors;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CCEE8D0A2CB19A7F006C12EC /* Build configuration list for PBXProject "WellnesWarriors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CCEE8D3B2CB19A81006C12EC /* Debug */,
+				CCEE8D3C2CB19A81006C12EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CCEE8D382CB19A81006C12EC /* Build configuration list for PBXNativeTarget "WellnesWarriors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CCEE8D392CB19A81006C12EC /* Debug */,
+				CCEE8D3A2CB19A81006C12EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CCEE8D3D2CB19A81006C12EC /* Build configuration list for PBXNativeTarget "WellnesWarriorsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CCEE8D3E2CB19A81006C12EC /* Debug */,
+				CCEE8D3F2CB19A81006C12EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CCEE8D402CB19A81006C12EC /* Build configuration list for PBXNativeTarget "WellnesWarriorsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CCEE8D412CB19A81006C12EC /* Debug */,
+				CCEE8D422CB19A81006C12EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CCEE8D072CB19A7F006C12EC /* Project object */;
+}
